@@ -389,7 +389,7 @@ NY NY384 WilRd NY265_S # NY265 WilRd
 NY NY182 I-190 NY61_N
 PA PA208 PA258_N I-79
 NY LaSExpy I-190(21) WilRd
-NY NY383 PaulRd I-
+NY NY383 PaulRd I-390
 
 NY NY204 NY33A_E I-390
 NY I-390 15A 18A
@@ -437,7 +437,8 @@ WY GraLoopRd SEntRd NEntRd_W
 WY GraLoopRd NorCynRd_E SouRimDr
 WY NorCanRd GraLoopRd_W	GraLoopRd_E
 MT WEntRd US20/191 WY WEntRd GraLoopRd
-WY NEntRd GraLoopRd MT NEntRd US89	
+MT NEntRd OldGarRd MT NEntRd US89
+MT OldGarRd NEntRd WY OldGarRd NEntRd
 UT BryCynSceDr UT63 End
 
 #OR
@@ -818,6 +819,10 @@ SGP ECP 1 15
 
 #UAE
 ARE M5 49(E11D) 54(E11D)
+
+#THA
+THA AH19 AH2 SuvAir
+THA AH2 103 SirExpy_N
 
 #TWN 
 TWN F1 27 52
