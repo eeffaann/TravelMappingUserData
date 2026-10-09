@@ -67,6 +67,13 @@ CHN-GD GuangShenGang GuangZhouS HKG GuangShenGang WKow
 CHN-GD JingGang +DIV_GuangJiuW HKG JingGang WKow
 CHN-GD GuangShen GuangZhouE +DIV_JingGangN
 
+### TJ
+## TIANJIN METRO
+CHN-TJ 2TJ BinHaiGuoJiJiChang TianJinZhan
+
+## CR BEIJING INTERCITY
+CHN-TJ JingJin TianJin BJ/TJ CHN-BJ JingJin BJ/TJ BeiJingS
+
 ### GD
 ## PRD ICR
 CHN-GD GuangZhu ZhongShanN ZhuHai
