@@ -67,6 +67,11 @@ CHN-GD GuangShenGang GuangZhouS HKG GuangShenGang WKow
 CHN-GD JingGang +DIV_GuangJiuW HKG JingGang WKow
 CHN-GD GuangShen GuangZhouE +DIV_JingGangN
 
+### BJ
+## BEIJING SUBWAY
+CHN-BJ 16 WanShouSi GuoJiaTuShuGuan
+CHN-BJ 4 GuoJiaTuShuGuan DongWuYuan
+
 ### TJ
 ## TIANJIN METRO
 CHN-TJ 2TJ BinHaiGuoJiJiChang TianJinZhan
