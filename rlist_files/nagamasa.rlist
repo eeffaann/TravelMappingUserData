@@ -69,16 +69,9 @@ CHN-GD GuangShen GuangZhouE +DIV_JingGangN
 
 ### BJ
 ## BEIJING SUBWAY
-CHN-BJ 16 WanShouSi GuoJiaTuShuGuan
-CHN-BJ 4 GuoJiaTuShuGuan DongWuYuan
 CHN-BJ 1 SiHui TianAnMenE
-
-### TJ
-## TIANJIN METRO
-CHN-TJ 2TJ BinHaiGuoJiJiChang TianJinZhan
-
-## CR BEIJING INTERCITY
-CHN-TJ JingJin TianJin BJ/TJ CHN-BJ JingJin BJ/TJ BeiJingS
+CHN-BJ 4 GuoJiaTuShuGuan DongWuYuan
+CHN-BJ 16 WanShouSi GuoJiaTuShuGuan
 
 ### GD
 ## PRD ICR
@@ -108,6 +101,13 @@ CHN-SH 7 WGaoKeRd YaoHuaRd
 CHN-SH 10 ENanJingRd YuYuanGar
 CHN-SH 13 MaDangRd ShiBoAve
 CHN-SH Maglev LongYangRd PuDongAirTer12
+
+### TJ
+## TIANJIN METRO
+CHN-TJ 2TJ BinHaiGuoJiJiChang TianJinZhan
+
+## CR BEIJING INTERCITY
+CHN-TJ JingJin TianJin BJ/TJ CHN-BJ JingJin BJ/TJ BeiJingS
 
 #### DEU
 ### MUNICH
@@ -464,17 +464,16 @@ JPN OkiMon 1 7
 ### SEOUL
 KOR AREX A01 A11
 KOR Suin K210 K215
-KOR 2 220 222
-KOR 2 202 211
 KOR 1 128 133
+KOR 2 202 211
+KOR 2 220 222
 KOR 3 328 329
 KOR 3 331 339
-KOR 7 734 727
-KOR 9 929 927
-KOR Suin K214 K210
 KOR 4 420 426
 KOR 5 533 537
 KOR 6 632 634
+KOR 7 734 727
+KOR 9 929 927
 
 #### LUX
 LUX T1 LuxExpo Ham
